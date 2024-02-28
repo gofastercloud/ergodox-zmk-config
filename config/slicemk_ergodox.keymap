@@ -32,7 +32,7 @@
 				&kp ESC  &kp A        &kp S        &kp D        &kp F        &kp G                              &kp H        &kp J        &kp K        &kp L        &kp SEMICOLON &kp BKSP
 				&mo 2    &kp Z        &kp X        &kp C        &kp V        &kp B        &kp M_VOLD &kp M_VOLU &kp N        &kp M        &kp CMMA     &kp DOT      &kp FSLH      &mo 2
 				&none    &none        &kp LALT     &kp LARW     &kp UARW                                                     &kp DARW     &kp RARW     &kp RALT     &none         &to 3
-				                                                             &kp DEL      &kp HOME   &kp END    &kp INS
+				                                                             &kp BKSP     &kp HOME   &kp END    &kp INS
 				                                                &kp LSFT     &kp LCTL     &kp PGUP   &kp PGDN   &kp SPC      &kp LGUI
 				                                                                          &kp RET    &mo 1
 			>;
